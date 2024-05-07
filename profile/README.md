@@ -1,1 +1,9 @@
-# AI + Machine Learning Canton of Zurich
+# Help to provide better services for the public with AI + Machine Learning
+
+Using artificial intelligence and machine learning techniques, we can **support the work of employees in the cantonal administration** and **provide better services for the public**. We view AI as one of many tools for digital transformation.
+
+[Team Data](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt/data.html) of the Statistical Office of the Canton of Zurich operates as a competence center for data science. Among other things, we work on AI pilot projects for the cantonal administration. The basis for our work is [RRB 1331/2022](https://www.zh.ch/de/politik-staat/gesetze-beschluesse/beschluesse-des-regierungsrates/rrb/regierungsratsbeschluss-1331-2022.html) («... provides the other strategic initiatives with knowledge and skills relating to data and AI. ...»), action area E4 of the [Strategic Initiative Data](https://www.zh.ch/de/politik-staat/kanton/kantonale-verwaltung/digitale-verwaltung/strategische-initiativen.html) («Machine Learning Pilot Projects»), and the measures to achieve the [legislative goals](https://www.zh.ch/de/politik-staat/gesetze-beschluesse/richtlinien-der-regierungspolitik-2023-2027/allgemeine-verwaltung/rrz-10/rrz-10-f.html) («Expand the competent and prudent use of artificial intelligence in administration and promote the exchange of knowledge in this area.»).
+
+With our pilot projects, we aim to find out **whether AI and machine learning can be a solution to certain problems**. Together with our partners in the cantonal administration, we **develop prototypes and proof of concepts and thus validate possible solutions**. [Here we describe more about how the canton deals and works with AI](https://www.zh.ch/de/politik-staat/kanton/kantonale-verwaltung/digitale-verwaltung/kuenstliche-intelligenz.html).
+
+We share experiences, code, and data from our pilot projects here on GitHub as far as possible. We are very interested in feedback - please send them via [email](mailto:datashop@statistik.zh.ch) or open issues/PRs in the respective repositories.
