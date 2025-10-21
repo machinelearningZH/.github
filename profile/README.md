@@ -12,11 +12,11 @@ We share experiences, code, and data from our pilot projects here on GitHub when
 
 ### Knowledge Management
 
-- [TranscriboZH Audio Transcription](https://github.com/machinelearningZH/audio-transcription): Transcribe any audio or video file. Edit and view your transcripts in a standalone HTML editor.
-- [Hybrid Search](https://github.com/machinelearningZH/ai-search_staatsarchiv): Enhance access to the central collections of the Staatsarchiv Zürich with an intelligent hybrid search application.
-- [Document Research Tool](https://github.com/machinelearningZH/document-research-tool): Perform intelligent research over document collections using hybrid search and LLMs. It's RAG with some extra features and twists.
+- [TranscriboZH Audio Transcription](https://github.com/machinelearningZH/audio-transcription): Transcribe any audio or video file. Edit and view transcripts in a standalone HTML editor.
+- [Hybrid Search](https://github.com/machinelearningZH/ai-search_staatsarchiv): Intelligent hybrid search application for large document collections.
+- [Document Research Tool](https://github.com/machinelearningZH/document-research-tool): Perform intelligent research over document collections using hybrid search and LLMs.
 - [Deep Research](https://github.com/machinelearningZH/deep-research): Powerful, automated research and analysis across your own document collections.
-- [AI Chat](https://github.com/machinelearningZH/ai-chat): A locally operated AI chat with document processing capabilities. Based on Ollama, Chainlit, and Docling.
+- [AI Chat](https://github.com/machinelearningZH/ai-chat): A locally operated AI chat with document processing capabilities. 
 - [Semantic Search Evaluation Tool](https://github.com/machinelearningZH/semantic-search-eval): A framework for evaluating semantic search across custom datasets, metrics, and embedding backends.
 - [Named Entity Recognition](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv): NER framework tailored for administration use cases.
 
@@ -27,12 +27,12 @@ We share experiences, code, and data from our pilot projects here on GitHub when
 - [Language Simplification API](https://github.com/machinelearningZH/simply-simplify-language_api): Language Simplification as an API.
 - [Glossarizer](https://github.com/machinelearningZH/simply-simplify-language-glossarizer): Create plain language glossaries from texts, URLs, and files using LLMs.
 - [Alt Text Generator](https://github.com/machinelearningZH/alt-text-generator): Automagically generate German alt texts for web images using AI.
-- [Subtitle to Speech Tool](https://github.com/machinelearningZH/subtitle-to-speech): Convert subtitle files into synchronized German language audio using OpenAI's Text-to-Speech (TTS) API.
+- [Subtitle to Speech Tool](https://github.com/machinelearningZH/subtitle-to-speech): Convert subtitle files into synchronized German language audio.
 
 ### Open Government Data (OGD)
 
-- [OGD AI Analyzer](https://github.com/machinelearningZH/ogd_ai-analyzer): Analyze the quality of a DCAT metadata catalog with a little help from ✨ AI.
-- [OGD AI Metafairy](https://github.com/machinelearningZH/ogd_ai-metafairy): Easily create high-quality dataset descriptions with a little help from ✨ AI.
+- [OGD AI Analyzer](https://github.com/machinelearningZH/ogd_ai-analyzer): Analyze the quality of a DCAT metadata catalog.
+- [OGD AI Metafairy](https://github.com/machinelearningZH/ogd_ai-metafairy): Easily create high-quality dataset descriptions.
 - [OGD AI Search](https://github.com/machinelearningZH/ogd_ai-search): Search semantically, lexically, and multilingually in your OGD metadata catalog.
 
 ### Miscellaneous
