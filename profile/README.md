@@ -13,10 +13,10 @@ We share experiences, code, and data from our pilot projects here on GitHub when
 ### Knowledge Management
 
 - [TranscriboZH Audio Transcription](https://github.com/machinelearningZH/audio-transcription): Transcribe any audio or video file. Edit and view transcripts in a standalone HTML editor.
-- [Hybrid Search](https://github.com/machinelearningZH/ai-search_staatsarchiv): Intelligent hybrid search application for large document collections.
+- [Hybrid Search](https://github.com/machinelearningZH/ai-search_staatsarchiv): Intelligent search application for large document collections.
 - [Document Research Tool](https://github.com/machinelearningZH/document-research-tool): Perform intelligent research over document collections using hybrid search and LLMs.
 - [Deep Research](https://github.com/machinelearningZH/deep-research): Powerful, automated research and analysis across your own document collections.
-- [AI Chat](https://github.com/machinelearningZH/ai-chat): A locally operated AI chat with document processing capabilities. 
+- [AI Chat](https://github.com/machinelearningZH/ai-chat): A locally operated LLM chat with document processing capabilities. 
 - [Semantic Search Evaluation Tool](https://github.com/machinelearningZH/semantic-search-eval): A framework for evaluating semantic search across custom datasets, metrics, and embedding backends.
 - [Named Entity Recognition](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv): NER framework tailored for administration use cases.
 
