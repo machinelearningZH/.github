@@ -10,7 +10,7 @@ We share experiences, code, and data from our pilot projects here on GitHub when
 
 ## Current pilot projects
 
-### Knowledge Management
+### Information & Knowledge Management
 
 - [TranscriboZH Audio Transcription](https://github.com/machinelearningZH/audio-transcription): Transcribe any audio or video file. Edit and view transcripts in a standalone HTML editor.
 - [Hybrid Search](https://github.com/machinelearningZH/ai-search_staatsarchiv): Intelligent search application for large document collections.
@@ -35,6 +35,6 @@ We share experiences, code, and data from our pilot projects here on GitHub when
 - [OGD AI Metafairy](https://github.com/machinelearningZH/ogd_ai-metafairy): Easily create high-quality dataset descriptions.
 - [OGD AI Search](https://github.com/machinelearningZH/ogd_ai-search): Search semantically, lexically, and multilingually in your OGD metadata catalog.
 
-### Miscellaneous
+### Voting & Elections
 
 - [Plausi App](https://github.com/machinelearningZH/plausi): Predict votes and detect anomalies using R.
