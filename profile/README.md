@@ -18,7 +18,7 @@ We share experiences, code, and data from our pilot projects here on GitHub when
 - [Deep Research](https://github.com/machinelearningZH/deep-research): Powerful, automated research and analysis across your own document collections.
 - [AI Chat](https://github.com/machinelearningZH/ai-chat): A locally operated LLM chat with document processing capabilities. 
 - [Semantic Search Evaluation Tool](https://github.com/machinelearningZH/semantic-search-eval): A framework for evaluating semantic search across custom datasets, metrics, and embedding backends.
-- [Named Entity Recognition (*archived*)](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv): NER framework tailored for administration use cases.
+- [Named Entity Recognition *(archived)*](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv): NER framework tailored for administration use cases.
 
 ### Accessibility & Language Simplification
 
