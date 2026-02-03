@@ -42,6 +42,6 @@ We share experiences, code, and data from our pilot projects here on GitHub when
 
 ## Our GitHub Organizations
 
-- **[Statistical Office Canton of Zurich](https://github.com/statistikZH)** 
+- **[Statistical Office Canton of Zurich](https://github.com/statistikZH)**
 - **[Specialist Unit for Open Government Data Canton of Zurich](https://github.com/openZH/)**
-- **[AI + Machine Learning Pilot Projects](https://github.com/machinelearningZH)** (*this organization*)
+- **[AI + Machine Learning Canton of Zurich](https://github.com/machinelearningZH)** (_this organization_)
