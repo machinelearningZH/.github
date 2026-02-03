@@ -16,10 +16,10 @@ We share experiences, code, and data from our pilot projects here on GitHub when
 - [Hybrid Search](https://github.com/machinelearningZH/ai-search_staatsarchiv): Intelligent search application for large document collections.
 - [Document Research Tool](https://github.com/machinelearningZH/document-research-tool): Perform intelligent research over document collections using hybrid search and LLMs.
 - [Deep Research](https://github.com/machinelearningZH/deep-research): Powerful, automated research and analysis across your own document collections.
-- [AI Chat](https://github.com/machinelearningZH/ai-chat): A locally operated LLM chat with document processing capabilities. 
+- [AI Chat](https://github.com/machinelearningZH/ai-chat): A locally operated LLM chat with document processing capabilities.
 - [Semantic Search Evaluation Tool](https://github.com/machinelearningZH/semantic-search-eval): A framework for evaluating semantic search across custom datasets, metrics, and embedding backends.
 - [Hybrid Search Evaluation Tool](https://github.com/machinelearningZH/hybrid-search-eval): A framework for benchmarking embedding models in hybrid search scenarios (BM25 + vector search). Measure MRR@K, Hit@K, embedding latency, and memory consumption. Bring your own data or use MTEB-compatible datasets.
-- [Named Entity Recognition *(archived)*](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv): NER framework tailored for administration use cases.
+- [Named Entity Recognition _(archived)_](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv): NER framework tailored for administration use cases.
 
 ### Accessibility & Language Simplification
 
@@ -39,3 +39,9 @@ We share experiences, code, and data from our pilot projects here on GitHub when
 ### Voting & Elections
 
 - [Plausi App](https://github.com/machinelearningZH/plausi): Predict votes and detect anomalies using R.
+
+## Our GitHub Organizations
+
+- **[Statistical Office Canton of Zurich](https://github.com/statistikZH)** 
+- **[Specialist Unit for Open Government Data Canton of Zurich](https://github.com/openZH/)**
+- **[AI + Machine Learning Pilot Projects](https://github.com/machinelearningZH)** (*this organization*)
