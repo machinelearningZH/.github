@@ -2,7 +2,7 @@
 
 We use artificial intelligence and machine learning to **support cantonal administration employees** and **deliver better public services**. We view AI as one of many tools for digital transformation.
 
-[Team Data](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt/data.html) at the Statistical Office of the Canton of Zurich operates as a data science competence center. We work on AI pilot projects for the cantonal administration, based on [RRB 1331/2022](https://www.zh.ch/de/politik-staat/gesetze-beschluesse/beschluesse-des-regierungsrates/rrb/regierungsratsbeschluss-1331-2022.html), action area E4 of the [Strategic Initiative Data](https://www.zh.ch/de/politik-staat/kanton/kantonale-verwaltung/digitale-verwaltung/strategische-initiativen.html), and [legislative goals](https://www.zh.ch/de/politik-staat/gesetze-beschluesse/richtlinien-der-regierungspolitik-2023-2027/allgemeine-verwaltung/rrz-10/rrz-10-f.html) to expand the competent use of AI in administration.
+[Team Data](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt/data.html) at the Office for Statistics and Data of the Canton of Zurich operates as a data science competence center. We work on AI pilot projects for the cantonal administration, based on [RRB 1331/2022](https://www.zh.ch/de/politik-staat/gesetze-beschluesse/beschluesse-des-regierungsrates/rrb/regierungsratsbeschluss-1331-2022.html), action area E4 of the [Strategic Initiative Data](https://www.zh.ch/de/politik-staat/kanton/kantonale-verwaltung/digitale-verwaltung/strategische-initiativen.html), and [legislative goals](https://www.zh.ch/de/politik-staat/gesetze-beschluesse/richtlinien-der-regierungspolitik-2023-2027/allgemeine-verwaltung/rrz-10/rrz-10-f.html) to expand the competent use of AI in administration.
 
 Our pilot projects explore **whether machine learning can solve specific problems** in our business processes. Together with cantonal administration partners, we **develop prototypes and proofs of concept to validate potential solutions**. [Learn more about how the canton works with AI](https://www.zh.ch/de/politik-staat/kanton/kantonale-verwaltung/digitale-verwaltung/kuenstliche-intelligenz.html).
 
@@ -42,6 +42,6 @@ We share experiences, code, and data from our pilot projects here on GitHub when
 
 ## Our GitHub Organizations
 
-- **[Statistical Office Canton of Zurich](https://github.com/statistikZH)**
+- **[Office for Statistics and Data of the Canton of Zurich](https://github.com/statistikZH)**
 - **[Specialist Unit for Open Government Data Canton of Zurich](https://github.com/openZH/)**
 - **[AI + Machine Learning Canton of Zurich](https://github.com/machinelearningZH)** (_this organization_)
